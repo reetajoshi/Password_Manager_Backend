@@ -1,0 +1,9 @@
+{
+  "port": 4002,
+  "name": "microservice",
+  "log_level": "debug",
+  "log_output": "stdout",
+  "mongodb_config": "mongodb://localhost:27017/microdb",
+  "service_base_url": "http://localhost:4001",
+  "seed_database": false
+}

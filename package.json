@@ -1,0 +1,57 @@
+{
+  "name": "node_microservice",
+  "version": "0.0.1",
+  "description": "Microservice",
+  "main": "dist/app.js",
+  "author": "Suraj Tiwari",
+  "license": "MIT",
+  "scripts": {
+    "build": "make lib",
+    "dev": "make devserver",
+    "start": "node dist/app.js",
+    "dockerimage": "make dockerimage",
+    "dockerrun": "make dockerrun",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "dependencies": {
+    "@koa/cors": "^3.1.0",
+    "axios": "^0.19.2",
+    "bcrypt": "^5.0.1",
+    "bunyan": "^1.8.12",
+    "config": "^3.3.0",
+    "dotenv": "^8.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "koa": "^2.11.0",
+    "koa-body": "^4.1.1",
+    "koa-joi-router": "^6.0.2",
+    "mongoose": "^5.9.5"
+  },
+  "devDependencies": {
+    "@types/bcrypt": "^5.0.0",
+    "@types/bunyan": "^1.8.6",
+    "@types/config": "^0.0.36",
+    "@types/jsonwebtoken": "^8.5.4",
+    "@types/koa": "^2.11.2",
+    "@types/koa-joi-router": "^5.2.3",
+    "@types/koa-router": "^7.4.0",
+    "@types/koa__cors": "^3.0.1",
+    "@types/mongoose": "^5.7.6",
+    "onchange": "^6.1.0",
+    "ts-node": "^8.7.0",
+    "tslint": "^6.1.0",
+    "typescript": "^3.8.3"
+  },
+  "keywords": [
+    "koa",
+    "node",
+    "microservice",
+    "docker",
+    "nodejs",
+    "mongodb",
+    "mongoose"
+  ],
+  "heroku-run-build-script": true
+}
