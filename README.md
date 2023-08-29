@@ -8,15 +8,15 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/reetajoshi/nodejs-microservice-template.svg)](https://github.com/reetajoshi/nodejs-microservice-template/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/reetajoshi/nodejs-microservice-template.svg)](https://github.com/reetajoshi/nodejs-microservice-template/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/reetajoshi/Password_Manager_Backend.svg)](https://github.com/reetajoshi/Password_Manager_Backend/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/reetajoshi/Password_Manager_Backend.svg)](https://github.com/reetajoshi/Password_Manager_Backend/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
 
 ---
 
-<p align="center"> Nodejs microservice template
+<p align="center">Password Manager Backend
   <br> 
 </p>
 
@@ -30,13 +30,13 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Nodejs Microservice template
+Password Manager Backend
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
 ```
-git clone https://github.com/reetajoshi/nodejs-microservice-template.git
-cd nodejs-microservice-template
+git clone https://github.com/reetajoshi/Password_Manager_Backend.git
+cd Password_Manager_Backend
 yarn install
 ```
 
@@ -57,8 +57,8 @@ yarn run compile // compile application to dist directory
 ## 🎈 Usage <a name="usage"></a>
 
 ```
-git clone https://github.com/reetajoshi/nodejs-microservice-template.git
-cd nodejs-microservice-template
+git clone https://github.com/reetajoshi/Password_Manager_Backend.git
+cd Password_Manager_Backend
 yarn install
 yarn start // default port is 4002
 ```
@@ -86,4 +86,4 @@ This will create a docker image
 
 - [@reetajoshi](https://github.com/reetajoshi) - Idea & Initial work
 
-See also the list of [contributors](https://github.com/reetajoshi/nodejs-microservice-template/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/reetajoshi/Password_Manager_Backend/graphs/contributors) who participated in this project.
