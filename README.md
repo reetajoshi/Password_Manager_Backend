@@ -8,8 +8,8 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/Reeta-Joshi/nodejs-microservice-template.svg)](https://github.com/Reeta-Joshi/nodejs-microservice-template/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Reeta-Joshi/nodejs-microservice-template.svg)](https://github.com/Reeta-Joshi/nodejs-microservice-template/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/reetajoshi/nodejs-microservice-template.svg)](https://github.com/reetajoshi/nodejs-microservice-template/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/reetajoshi/nodejs-microservice-template.svg)](https://github.com/reetajoshi/nodejs-microservice-template/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
@@ -17,7 +17,7 @@
 ---
 
 <p align="center"> Nodejs microservice template
-    <br> 
+  <br> 
 </p>
 
 ## 📝 Table of Contents
@@ -35,7 +35,7 @@ Nodejs Microservice template
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
 ```
-git clone https://github.com/Reeta-Joshi/nodejs-microservice-template.git
+git clone https://github.com/reetajoshi/nodejs-microservice-template.git
 cd nodejs-microservice-template
 yarn install
 ```
@@ -57,7 +57,7 @@ yarn run compile // compile application to dist directory
 ## 🎈 Usage <a name="usage"></a>
 
 ```
-git clone https://github.com/Reeta-Joshi/nodejs-microservice-template.git
+git clone https://github.com/reetajoshi/nodejs-microservice-template.git
 cd nodejs-microservice-template
 yarn install
 yarn start // default port is 4002
@@ -84,6 +84,6 @@ This will create a docker image
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@Reeta-Joshi](https://github.com/Reeta-Joshi) - Idea & Initial work
+- [@reetajoshi](https://github.com/reetajoshi) - Idea & Initial work
 
-See also the list of [contributors](https://github.com/Reeta-Joshi/nodejs-microservice-template/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/reetajoshi/nodejs-microservice-template/graphs/contributors) who participated in this project.
