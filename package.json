@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Microservice",
   "main": "dist/app.js",
-  "author": "Suraj Tiwari",
+  "author": "Reeta Joshi",
   "license": "MIT",
   "scripts": {
     "build": "make lib",
