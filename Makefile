@@ -1,4 +1,4 @@
-SHELL := /bin/bash
+SHELL := /bin/zsh
 PATH  := ./node_modules/.bin:$(PATH)
 
 SRC_FILES := $(shell find src -name '*.ts')

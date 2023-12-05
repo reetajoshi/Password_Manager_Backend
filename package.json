@@ -6,8 +6,8 @@
   "author": "Reeta Joshi",
   "license": "MIT",
   "scripts": {
-    "build": "make lib",
-    "dev": "make devserver",
+    "build": "tsc -p tsconfig.json --outDir dist",
+    "dev": "onchange -i -k 'src/**/*.ts' 'config/*' -- ts-node src/app.ts | bunyan -o short",
     "start": "node dist/app.js",
     "dockerimage": "make dockerimage",
     "dockerrun": "make dockerrun",
